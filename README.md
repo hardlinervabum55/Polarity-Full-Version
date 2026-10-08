@@ -248,4 +248,4 @@ This repository serves as the official landing page for Polarity. The software i
 **Get the most recent version of Polarity today!**
 
 ---
-**Last updated:** 2026-10-07 20:14:20 UTC
+**Last updated:** 2026-10-08 00:29:46 UTC
